@@ -9,10 +9,10 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **Embedded Systems**
 - 🌱 I’m currently learning **Advanced C++ Techniques**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C, C++, and Embedded Systems**
-- 📫 How to reach me: **omaar.elnadi@gmail.com**
-- ⚡ Fun fact: **"It's never too late"**
+-  I’m looking to collaborate on **Open Source Projects**
+-  Ask me about **C, C++, and Embedded Systems**
+-  How to reach me: **omaar.elnadi@gmail.com**
+-  Fun fact: **"It's never too late"**
 
 ## 🚀 Languages and Tools:
 
